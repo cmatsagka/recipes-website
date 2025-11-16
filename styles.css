@@ -51,8 +51,24 @@ img {
 }
 
 .info {
-    margin: auto;
-    padding: 20px;
-    border: 2px solid red;
+    width: 600px;
+    margin: 20px auto;
+    color: #101935;
 }
+
+.info > p {
+    margin-bottom: 16px;    
+}
+
+ h2 {
+    text-align: center;
+    border-bottom: 2px solid #9ad4d6;
+    margin-bottom: 10px;
+ }
+
+ li {
+    padding: 4px;
+ }
+
+
 
