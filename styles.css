@@ -6,7 +6,8 @@
 
 a {
     text-decoration: none;
-    color: black;
+    color: #101935;
+    font-weight: 600;
 }
 
 
@@ -18,26 +19,23 @@ body {
 img {
     height: 1080px;
     width: auto;
+    display: block;
+    margin: auto;
 }
 
 .title {
     font-size: 36px;
     margin: 0 auto;
     padding: 8px;
-    border: 2px solid red;
+
     text-align: center;
+    color: #9ad4d6;
 }
 
 .menu {
     font-size: 24px;
-    border: 2px solid red;
     text-align: center;
     padding: 16px;
 }
 
-.hero {
-    border: 2px solid red;
-    margin: 0 auto;
-    padding: 0;
-}
 
